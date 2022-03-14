@@ -135,6 +135,8 @@
       width: 90px;
       color: white;
       padding: 6px;
+      border-radius: 7px;
+      font-weight: 700;
   }
 
 
@@ -216,3 +218,45 @@
   font-weight: 700;
   margin-left: 600px;
 }
+
+
+
+
+
+
+.sign-up-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 200px;
+  padding: 30px 60px;
+}
+
+
+
+.call {
+  font-weight: 700;
+}
+
+.sign-left {
+  display: flex;
+  color: white;
+  flex-direction: column;
+}
+
+
+.sign-right {
+  display: flex;
+  border: 1px solid white;
+}
+
+
+
+
+.footer {
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding: 30px;
+}
+
+
